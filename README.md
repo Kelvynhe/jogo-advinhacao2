@@ -1,1 +1,2 @@
-# jogo-advinhacao2
+# jogo-adivinhacao
+Jogo de adivinhação com busca binária
